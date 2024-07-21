@@ -27,6 +27,9 @@
 | recalculate inputs (should happen automatically) | ENTER |
 | draw                                             | LMB   |
 
+# Screenshot
+<img width="1060" alt="Screenshot 2024-07-21 at 3 29 08 PM" src="https://github.com/user-attachments/assets/ad6141d4-321f-4c7d-a042-96d49ead054f">
+
 # Resources used
 
 - https://www.3blue1brown.com/lessons/backpropagation-calculus#computing-the-first-derivative (Main resource)
